@@ -45,7 +45,7 @@ This project explores IPL matches, players, and teams to uncover insights throug
 ![Matches Hosted by Cities](https://github.com/Muskan1923/IPL_data_analysis/blob/main/matches%20hosted%20by%20cities.jpg)
 
 ### Final Winners Over years
-![Final Winners](https://github.com/Arpitabagdawat/IPL-Data-Analysis/blob/main/Final%20winners%20over%20years.jpg)
+![Final Winners](https://github.com/Muskan1923/IPL_data_analysis/blob/main/final%20winners%20over%20years.jpg)
 
 ### Top players of the Match Winners
 ![Top Players](https://github.com/Arpitabagdawat/IPL-Data-Analysis/blob/main/top%20players%20of%20the%20match%20winners.jpg)
